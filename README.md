@@ -51,7 +51,9 @@ modos de generación, manejo y difusión de contenidos se han visto influenciado
 En este trabajo se plantea el uso de la telefonía móvil, en conjunción con el uso de redes,  motores de base de 
 datos  y  servicios  web,  combinados  en  una  plataforma  para  difusión  de  información,  con  el  objetivo  de  
 complementar las campañas usuales de prevención primaria para la salud y de esta manera reducir costos y tiempos  operativos  al  mismo  tiempo  que  se  proporciona  un  mecanismo  flexible  a  los  pacientes  para  la  
-interacción con los centros de atención y el acceso a la información. 
+interacción con los centros de atención y el acceso a la información.  
+
+[*Read full article*](https://github.com/barbaramartina/research-publications/blob/master/aplicacion-de-tecnologias-moviles-a-la-prevencion.pdf)
 
 ***
 
