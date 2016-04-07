@@ -16,6 +16,7 @@ Some of them are in *Spanish*, my mother tongue and others are in *English*.
 >  The Traveling Salesman Problem (TSP) is perhaps the  most  famous  optimization  problem in the  setNP-hard.  
 Many  problems  that  are  natural  applications  in  computer  science  and  engineering  can  be  modeled  using  TSP  and  therefore, researchers are searching implementations focusing on the quality of  the producedsolution and    their computational  time. An innovative  Polynomial-Time Approximation  Scheme  (PTAS)  for  the  Euclidean  TSP  was  given  by  Sanjeev  Arora.  To  date, there  is  no  evidence  that  it  can  be  implemented  to  be practically  useful.  In  light  of  this,  we  propose  an  implementation  of  the  Euclidean  TSP  that  is  based  on  the  essential  steps  of  the  Arora’s  PTAS  and  adds  some  heuristics  to  improve  the  running  time.  The  paper  includes  the description of  a C++ Arora-based implementation and a comparative analysis of  this implementation  with  various  competitive  algorithms  for  the  Euclidean TSP.  
 
+[Read full article](https://github.com/barbaramartina/research-publications/blob/master/an-empirical-analysis-of-approximation-algorithms-for-euclidean-TSP.pdf)
 ***
 
 ##Guías de desarrollo para la construcción de un sistema de monitoreo Web de pacientes
