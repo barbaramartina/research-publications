@@ -6,10 +6,22 @@ Some of them are in *Spanish*, my mother tongue and others are in *English*.
 
 #Publications
 
+
+##An Empirical Analysis of Approximation Algorithms for Euclidean TSP
+**Editorial**: Proceedings 2009 International Conference on Scientific Computing (CSC'09), ISBN 1-60132-098-1, pág. 190-196, CSREA Press, Las Vegas, USA, July, 2009.  
+**Date**: *July,2009*  
+[Proceedings](http://researchr.org/publication/csc-2009)  
+
+
+>  The Traveling Salesman Problem (TSP) is perhaps the  most  famous  optimization  problem in the  setNP-hard.  
+Many  problems  that  are  natural  applications  in  computer  science  and  engineering  can  be  modeled  using  TSP  and  therefore, researchers are searching implementations focusing on the quality of  the producedsolution and    their computational  time. An innovative  Polynomial-Time Approximation  Scheme  (PTAS)  for  the  Euclidean  TSP  was  given  by  Sanjeev  Arora.  To  date, there  is  no  evidence  that  it  can  be  implemented  to  be practically  useful.  In  light  of  this,  we  propose  an  implementation  of  the  Euclidean  TSP  that  is  based  on  the  essential  steps  of  the  Arora’s  PTAS  and  adds  some  heuristics  to  improve  the  running  time.  The  paper  includes  the description of  a C++ Arora-based implementation and a comparative analysis of  this implementation  with  various  competitive  algorithms  for  the  Euclidean TSP.  
+
+***
+
 ##Guías de desarrollo para la construcción de un sistema de monitoreo Web de pacientes
 **Editorial**: Anales del CAIS 2010   Congreso Argentino de Informática y Salud  ISSN: 1853-1881  
-**Date**: 10/08/2010  
-[JAIIO CAIS 39º](http://39jaiio.sadio.org.ar/sites/default/files/39jaiio-cais-06_0.pdf)
+**Date**: *August,2010* 
+[JAIIO CAIS 39º](http://39jaiio.sadio.org.ar/sites/default/files/39jaiio-cais-06_0.pdf)  
 
 
 > La introducción de tecnologías en el ámbito de la salud es un camino para mejorar la atención
@@ -24,6 +36,7 @@ y administrativo.
 [*Read full article*](https://github.com/barbaramartina/research-publications/blob/master/guias-de-desarrollo-para-la.pdf)
 
 ***
+
 
 #Contact me
 For any question feel free to reach me to my email address <barbararodeker@gmail.com>
