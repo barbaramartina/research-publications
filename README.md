@@ -1,6 +1,6 @@
 # Researches and publications
 
-This repository is intented to be a compendium of the researches and publications I've taken part,  
+This repository is intented to be a compendium of the researches and publications I've taken part in,  
 with the goal of make them accessible to anyone interested in them.  
 Some of them are in *Spanish*, my mother tongue and others are in *English*.
 
@@ -21,7 +21,7 @@ Many  problems  that  are  natural  applications  in  computer  science  and  en
 
 ##Guías de desarrollo para la construcción de un sistema de monitoreo Web de pacientes
 **Editorial**: Anales del CAIS 2010   Congreso Argentino de Informática y Salud  ISSN: 1853-1881  
-**Date**: *August,2010* 
+**Date**: *August,2010*  
 [JAIIO CAIS 39º](http://39jaiio.sadio.org.ar/sites/default/files/39jaiio-cais-06_0.pdf)  
 
 
@@ -35,6 +35,23 @@ y administrativo.
 
 
 [*Read full article*](https://github.com/barbaramartina/research-publications/blob/master/guias-de-desarrollo-para-la.pdf)
+
+***
+
+##Aplicación de tecnologías móviles a la prevención de enfermedades
+**Editorial**: Anales del CAIS 2011   Congreso Argentino de Informática y Salud  ISSN: 1853-1881  
+**Date**: *August,2011*  
+[JAIIO CAIS 40º](http://40jaiio.sadio.org.ar/sites/default/files/T2011/CAIS/CAIS2011-09.pdf)
+
+>La  introducción  de  las  tecnologías  de  la  información  y  la  comunicación  (TICs)  en  el  sector  de  la  salud  da  lugar  a  la  generación  de  nuevos  enfoques  para  afrontar  problemáticas  tradicionales.  El  concepto  de  
+proximidad espacial y temporal se ha ido transformando a medida que diversas tecnologías como el servicio 
+de  mensajes  cortos,  las  redes  inalámbricas  y  celulares,  entre  otros,  fueron  ganando  espacio  en  la  vida  
+cotidiana,  haciéndose  cada  vez  más  accesibles  y  utilizados  por  una  cantidad  creciente  de  personas.  Los  
+modos de generación, manejo y difusión de contenidos se han visto influenciados a su vez por la introducción de estas tecnologías, que hicieron más ágiles los flujos de información.  
+En este trabajo se plantea el uso de la telefonía móvil, en conjunción con el uso de redes,  motores de base de 
+datos  y  servicios  web,  combinados  en  una  plataforma  para  difusión  de  información,  con  el  objetivo  de  
+complementar las campañas usuales de prevención primaria para la salud y de esta manera reducir costos y tiempos  operativos  al  mismo  tiempo  que  se  proporciona  un  mecanismo  flexible  a  los  pacientes  para  la  
+interacción con los centros de atención y el acceso a la información. 
 
 ***
 
