@@ -7,7 +7,7 @@ Some of them are in *Spanish*, my mother tongue and others are in *English*.
 #Publications
 
 
-##An Empirical Analysis of Approximation Algorithms for Euclidean TSP
+## An Empirical Analysis of Approximation Algorithms for Euclidean TSP
 **Editorial**: Proceedings 2009 International Conference on Scientific Computing (CSC'09), ISBN 1-60132-098-1, pág. 190-196, CSREA Press, Las Vegas, USA, July, 2009.  
 **Date**: *July,2009*  
 [Proceedings](http://researchr.org/publication/csc-2009)  
@@ -19,7 +19,7 @@ Many  problems  that  are  natural  applications  in  computer  science  and  en
 [Read full article](https://github.com/barbaramartina/research-publications/blob/master/an-empirical-analysis-of-approximation-algorithms-for-euclidean-TSP.pdf)
 ***
 
-##Guías de desarrollo para la construcción de un sistema de monitoreo Web de pacientes
+## Guías de desarrollo para la construcción de un sistema de monitoreo Web de pacientes
 **Editorial**: Anales del CAIS 2010   Congreso Argentino de Informática y Salud  ISSN: 1853-1881  
 **Date**: *August,2010*  
 [JAIIO CAIS 39º](http://39jaiio.sadio.org.ar/sites/default/files/39jaiio-cais-06_0.pdf)  
@@ -38,7 +38,7 @@ y administrativo.
 
 ***
 
-##Aplicación de tecnologías móviles a la prevención de enfermedades
+## Aplicación de tecnologías móviles a la prevención de enfermedades
 **Editorial**: Anales del CAIS 2011   Congreso Argentino de Informática y Salud  ISSN: 1853-1881  
 **Date**: *August,2011*  
 [JAIIO CAIS 40º](http://40jaiio.sadio.org.ar/sites/default/files/T2011/CAIS/CAIS2011-09.pdf)
@@ -58,5 +58,5 @@ interacción con los centros de atención y el acceso a la información.
 ***
 
 
-#Contact me
+# Contact me
 For any question feel free to reach me to my email address <barbararodeker@gmail.com>
