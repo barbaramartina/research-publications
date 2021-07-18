@@ -4,7 +4,7 @@ This repository is intented to be a compendium of the researches and publication
 with the goal of make them accessible to anyone interested in them.  
 Some of them are in *Spanish*, my mother tongue and others are in *English*.
 
-#Publications
+# Publications
 
 
 ## An Empirical Analysis of Approximation Algorithms for Euclidean TSP
